@@ -1,2 +1,3 @@
 # Multi-error-model-of-optical-fiber-current-transformer
-Environmental parameter data of fiber optic current transformer under complex environmental conditions and multi error model framework, accompanied by supporting program code
+This dataset encompasses environmental parameter data for fiber optic current transformers under complex environmental conditions and within a multi-error model framework. It also includes accompanying program code, providing data and code support for the analysis of environment-induced error mechanisms in fiber optic current transformers, multi-error coupling modeling, and algorithm verification.
+These data are cited in our companion paper titled "Temperature and Multi-Error Compensation for Fiber Optic Current Sensors Based on F-BARS Tripartite Cascade Neural Network"
